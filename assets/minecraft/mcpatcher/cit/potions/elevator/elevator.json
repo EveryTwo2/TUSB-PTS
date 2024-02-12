@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mcpatcher/cit/basemodel/blank",
+        "layer1": "mcpatcher/cit/potions/elevator/elevator"
+    }
+}
